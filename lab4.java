@@ -62,5 +62,6 @@ public class Main {
             else
                 System.out.print(result[i] + ", ");
         }
+        scan.close();
     }
 }
